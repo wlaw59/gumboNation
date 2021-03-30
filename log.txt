@@ -1,0 +1,45 @@
+now - DEBUG --> Got a connection 
+now - DEBUG --> Got a connection 
+now - DEBUG --> Got a connection 
+now - DEBUG --> Got a connection 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> Got a connection 
+now - INFO  --> user found!Array
+(
+    [total] => 1
+    [0] => 1
+)
+ 
+now - DEBUG --> Got a connection 
+now - INFO  --> email: w@gmail.com 
+now - INFO  --> password: test1 
+now - INFO  --> Status: 1 
+now - DEBUG --> Got a connection 
+now - DEBUG --> Got a connection 
+now - DEBUG --> Got a connection 
+now - INFO  --> email: w@gmail.com 
+now - INFO  --> password: test1 
+now - INFO  --> Status: 1 
+now - DEBUG --> Got a connection 
+now - DEBUG --> Got a connection 
+now - INFO  --> email: willlawrence1@u.boisestate.edu 
+now - INFO  --> password: sws 
+now - INFO  --> name: William Lawrence 
+now - INFO  --> Status: 1 
+now - DEBUG --> Got a connection 
+now - INFO  --> email: www@gmail.com 
+now - INFO  --> password: sws 
+now - INFO  --> name: Will 
+now - INFO  --> Status: 1 
+now - DEBUG --> Got a connection 
+now - INFO  --> email: www@gmail.com 
+now - INFO  --> password: sws 
+now - INFO  --> name: Will 
+now - INFO  --> Status: 1 
+now - DEBUG --> Got a connection 
+now - DEBUG --> Got a connection 
