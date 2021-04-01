@@ -4,7 +4,7 @@ require_once 'KLogger.php';
 
 class Dao {
 
-public $dsn ='mysql://b2d0c95d74e935:cdbdc263@us-cdbr-east-03.cleardb.com/heroku_2f5a5fc0489b985?reconnect=true';
+public $dsn ='mysql:dbname=heroku_2f5a5fc0489b985;host=us-cdbr-east-03.cleardb.com';
 public $user ='b2d0c95d74e935';
 public $password = "cdbdc263";
 

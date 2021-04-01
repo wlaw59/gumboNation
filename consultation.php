@@ -25,10 +25,10 @@
 <div class="navbar">
 	<ul>
 		<li class="nav buttons">
-			<a href="consultation.php"> Consultation </a>
+			<a href="consultation.html"> Consultation </a>
 		</li>
 		<li class="nav buttons" >
-			<a href ="artinovation.php"> Art/Inovation </a>
+			<a href ="artinovation.html"> Art/Inovation </a>
 		</li>		
 	</ul>
 </div>
@@ -54,10 +54,10 @@
 	<ul>
 		
 		<li class="nav buttons">
-			<a href="consultation.php"> Consultation </a>
+			<a href="consultation.html"> Consultation </a>
 		</li>
 		<li class="nav buttons" >
-			<a href ="artinovation.php"> Art/Inovation </a>
+			<a href ="artinovation.html"> Art/Inovation </a>
 		</li>		
 	</ul>
 </div>
