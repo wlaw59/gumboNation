@@ -14,8 +14,8 @@
 <div class="signup">
 	<!--<ul>-->
 		<!--<li>-->
-		<a href="login.php"> Sign-Up/Login </a>
-		<a href="create_account.php"> Sign-Up/Login </a>
+		<a href="login.php"> Login </a>
+		<a href="create_account.php"> Sign-Up </a>
 		<!--</li>-->
 	<!--</ul>-->
 </div>
