@@ -12,12 +12,14 @@
 <!--end of the signup/login-->
 <body>
 <div class="signup">
-	<!--<ul>-->
-		<!--<li>-->
+	<ul>
+		<li>
 		<a href="login.php"> Login </a>
+		</li>
+		<li>
 		<a href="create_account.php"> Sign-Up </a>
-		<!--</li>-->
-	<!--</ul>-->
+		</li>
+	</ul>
 </div>
 <!--logo goes to the home page  did it work59-->
 <div class ="banner">
