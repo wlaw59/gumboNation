@@ -41,17 +41,7 @@ require_once('navbar.php');
 
 <script src="carousel.js"></script>
 	
-<div class="content">	
-	<div class="sidepanel">
-	</div>
-	<div class="centerpanel">
-		<h1>Gumbo Nation</h1>
-		<img src = "logo2.jpg" />
-	</div>
-	<div class="sidepanel">
-	</div>
-	
-</div>
+
 
 
 <?php
