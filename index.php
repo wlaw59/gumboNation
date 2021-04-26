@@ -12,7 +12,7 @@ require_once('navbar.php');
 	</div>
 	<div class="centerpanel">
 		<h1>Gumbo Nation</h1>
-		<img src = "img1.jpg" />
+		<img src = "img2.jpg" />
 	</div>
 	<div class="sidepanel">
 	</div>
