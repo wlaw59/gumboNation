@@ -68,6 +68,7 @@ public $password = "cdbdc263";
 			'name' => $name
 			
 		];
+		md5 (password);
 		$sql = "INSERT INTO user (email, password, name) VALUES (:email, :password, :name)";
 		$q= $connection->prepare($sql);
 		$q->execute($data);
