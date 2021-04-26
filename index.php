@@ -6,6 +6,19 @@ require_once('navbar.php');
 //required_once('carousel.php');
 ?>
 
+<div class="content">	
+  
+	<div class="sidepanel">
+	</div>
+	<div class="centerpanel">
+		<h1>Gumbo Nation</h1>
+		<img src = "img1.jpg" />
+	</div>
+	<div class="sidepanel">
+	</div>
+
+</div>
+
 
 <?php
 require_once('footer.php');
