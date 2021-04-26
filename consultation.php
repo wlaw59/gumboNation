@@ -25,7 +25,7 @@
 <div class="navbar">
 	<ul>
 		<li class="nav buttons">
-			<a href="consultation.html"> Consultation </a>
+			<a href="consultation.php"> Consultation </a>
 		</li>
 		<li class="nav buttons" >
 			<a href ="artinovation.html"> Art/Inovation </a>
