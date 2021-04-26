@@ -13,13 +13,13 @@
 <div class="signup">
 	<!--<ul>-->
 		<!--<li>-->
-		<a href="signup.html"> Sign-Up/Login </a>
+		<a href="signup.php"> Sign-Up/Login </a>
 		<!--</li>-->
 	<!--</ul>-->
 </div>
 <!--logo goes to the home page  did it work59-->
 <div class ="banner">
-	<a id="logo" href="index.html"><img src="logo4.jpg" alt="Gumbo Nation"></a>
+	<a id="logo" href="index.php"><img src="logo4.jpg" alt="Gumbo Nation"></a>
 </div>
 
 <div class="navbar">
