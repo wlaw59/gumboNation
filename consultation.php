@@ -28,7 +28,7 @@
 			<a href="consultation.php"> Consultation </a>
 		</li>
 		<li class="nav buttons" >
-			<a href ="artinovation.html"> Art/Inovation </a>
+			<a href ="artinovation.php"> Art/Inovation </a>
 		</li>		
 	</ul>
 </div>
@@ -55,10 +55,10 @@
 	<ul>
 		
 		<li class="nav buttons">
-			<a href="consultation.html"> Consultation </a>
+			<a href="consultation.php"> Consultation </a>
 		</li>
 		<li class="nav buttons" >
-			<a href ="artinovation.html"> Art/Inovation </a>
+			<a href ="artinovation.php"> Art/Inovation </a>
 		</li>		
 	</ul>
 </div>
